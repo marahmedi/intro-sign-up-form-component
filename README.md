@@ -18,6 +18,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Screenshot
 
+![Screenshot 2023-02-23 at 19 21 04](https://user-images.githubusercontent.com/93393032/221009168-9b638230-b620-4e77-84db-986c87e4d955.png)![Screenshot 2023-02-23 at 19 20 57](https://user-images.githubusercontent.com/93393032/221009230-88afb4ac-b1f1-43a9-8368-45a2a7bd0fe5.png)![Screenshot 2023-02-23 at 19 21 36](https://user-images.githubusercontent.com/93393032/221009252-b3330145-044d-435c-b26d-60738f324c68.png)
 
 
 
